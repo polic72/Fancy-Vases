@@ -1,0 +1,22 @@
+{
+	"code": "aztecpot1",
+	"creativeinventory": { "general": ["*"], "decorative": ["*"] },
+	"blockmaterial": "Ceramic",
+	"drawtype": "json",
+	"shape": {
+		"base": "block/aztecpot1"
+	},
+	"sidesolid": {
+		"all": false
+	},
+	"sideopaque": {
+		"all": false
+	},
+	"resistance": "1.5",
+	"sounds": {
+		"walk": "game:walk/stone",
+		"break": "game:block/ceramicbreak",
+		"hit": "game:block/ceramicbreak",
+		"place": "game:block/ceramicplace"
+	}
+}

@@ -8,8 +8,8 @@
 	"textureSizes": {
 	},
 	"textures": {
-		"blueclay": "/Users/mag_w/AppData/Roaming/Vintagestory/assets/survival/textures/block/clay/blueclay",
-		"blueclayface": "/Users/mag_w/OneDrive/Documents/MDM Submission/Textures/blueclayface"
+		"blueclay": "game:block/clay/blueclay",
+		"blueclayface": "block/blueclayface"
 	},
 	"elements": [
 		{

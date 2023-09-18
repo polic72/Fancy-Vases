@@ -1,0 +1,11 @@
+{
+    "type": "content",
+    "modid": "fancyvases",
+    "name": "Fancy Vases",
+    "authors": ["polic72", "Maggie"],
+    "description": "A mod that adds fancy-loking historical vases to the game.",
+    "version": "0.0.0",
+    "dependencies": {
+    	"game": "1.18.8"
+    }
+}
